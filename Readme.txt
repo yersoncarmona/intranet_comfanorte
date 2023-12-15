@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Intranet Comfanorte
 
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Aplicación Web para la caja de compensación familiar Comfanorte donde se prestan diversos servicios a los trabajadores para optimizar la realización de sus tareas diarias.
+Author: Yerson Carmona
+URl Produccion: https://tramitesenlinea.comfanorte.com.co:2657/intranet
